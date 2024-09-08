@@ -31,7 +31,7 @@ function BunkAttendace() {
 
   return (
     <>
-      <div className="container bg-blue-950 w-[100%] h-full flex justify-center items-start">
+      <div className="container bg-gray-95 w-[100%] h-full flex justify-center items-start">
         <div className="box h-full w-[500px] bg-gray-900 flex items-center flex-col ">
          
           <div className="inputfield w-full p-4 mt-6">
