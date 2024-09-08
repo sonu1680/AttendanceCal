@@ -22,7 +22,7 @@ function ExamAttendance() {
     const result = (willAttend * 100) / willHapped;
     console.log("numbe rof require to get");
     setResult(result.toFixed(2));
-    console.log(result);
+    //console.log(result);
 
     // console.log(num, "%");
   };
